@@ -2,7 +2,7 @@
 
 by [Daniel D. Beck](https://twitter.com/ddbeck)
 
-[checklist.md](checklist.md) is a checklist to help you write a README file
+[checklist.md](/checklist.md) is a checklist to help you write a README file
 that helps readers feel confident about your project. If you write a README by
 following the checklist, then your readers may more easily identify, evaluate,
 use, and engage with your project. Unlike README templates, this checklist
